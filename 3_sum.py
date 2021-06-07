@@ -32,13 +32,8 @@ class Solution:
                 else:
                     left+=1
             
-            
         result = []
         
         for i in res:
             result.append(list(i))
         return result
-                
-                
-                
-        
